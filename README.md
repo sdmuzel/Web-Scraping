@@ -1,2 +1,2 @@
 # Web-Scraping
-Repositori for my project of web scraping 
+Repository for my projects of web scraping 
